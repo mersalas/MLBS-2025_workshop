@@ -10,6 +10,6 @@
 
 #### 🎥 Recordings
 - [Lecture 1](https://youtu.be/cD3iqhRUv0s?si=rLl-9GBfWwLl8fpy)
-- [Lecture 2](https://youtu.be/2ls_3C5HpYc?si=FyKCI8J7Vu22m5yM)
-- [Lecture 3](https://youtu.be/2ls_3C5HpYc?si=YVYDsI0m_1BjxTdy)
+- [Lecture 2](https://youtu.be/2ls_3C5HpYc?si=wHO6jRoPPXtCRVLY)
+- [Lecture 3](https://youtu.be/YpZAdd6Xx2M?si=DF3sgrwb_f-5RBOS)
 - [Lecture 4]()
